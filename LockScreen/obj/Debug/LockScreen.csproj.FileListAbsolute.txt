@@ -1,0 +1,9 @@
+C:\Users\canda\source\repos\LockScreen\LockScreen\bin\Debug\LockScreen.exe.config
+C:\Users\canda\source\repos\LockScreen\LockScreen\bin\Debug\LockScreen.exe
+C:\Users\canda\source\repos\LockScreen\LockScreen\bin\Debug\LockScreen.pdb
+C:\Users\canda\source\repos\LockScreen\LockScreen\obj\Debug\LockScreen.csprojAssemblyReference.cache
+C:\Users\canda\source\repos\LockScreen\LockScreen\obj\Debug\LockScreen.Form1.resources
+C:\Users\canda\source\repos\LockScreen\LockScreen\obj\Debug\LockScreen.Properties.Resources.resources
+C:\Users\canda\source\repos\LockScreen\LockScreen\obj\Debug\LockScreen.csproj.GenerateResource.cache
+C:\Users\canda\source\repos\LockScreen\LockScreen\obj\Debug\LockScreen.exe
+C:\Users\canda\source\repos\LockScreen\LockScreen\obj\Debug\LockScreen.pdb
